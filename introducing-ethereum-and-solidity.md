@@ -2,7 +2,7 @@
 
 1 - 
 ----
-# 1
+# 1 - Bridging the Blockchain Knowledge Gap
 
 https://puu.sh/waag0/79e2db5de2.png
 
@@ -96,7 +96,7 @@ how to build things
 - we need to defend our public networks from attackers...
 
 -----
-
+ 
 # 8 - Dapp Deployment
   - running blockchain based applications >>> managing clients in a cloud-hosted paradigm
 
@@ -123,7 +123,7 @@ Prototyping Areas:
   - Why blockchains are not better for all dbs and networks
 
 
-  - Trustworth chains: lots of proof of work.
+  - Trustworthy chains: lots of proof of work.
 
   - creating your blockchain genesis file...
 
@@ -137,7 +137,7 @@ Prototyping Areas:
 
 ------
 
-# 10 - Advanced Concepts***
+# 11 - Advanced Concepts***
   - Private groups altered, re-released, and deployed the source code (Ch11)
 
   FULL ETHEREUM ROADMAP:
@@ -157,8 +157,6 @@ Prototyping Areas:
     - firms create long-term employement agreements that increase efficiency
     - processes that increase efficiency among a group of a few dozen workers can become a hindrance at scale...making large firms slow and uncompetitive
     - Equilibrium point: minimal bureaucracy, maximum efficients....
-
-
     - Temporary workers enable companies to spin up teams quickly when demand arises, spin them back down without needing to lay off FTE.
 
     "When comp packages can easily be composed of a series of if-then statements in a smart contract, the distinction between a salary and a bonus become blurred. The size, age, or location of a company may no longer carry cultural connotations about its trustworthiness or importance."
@@ -173,10 +171,8 @@ deals inked on pen and paper, but smaller deals handled by Eth machines running 
 - How many years out is this?
 
 How many business agreements might be made more fair and enforaceable?
-
 -----
-
-# 11 - Backmatter*?
+# 11+ - Backmatter*?
 ------XXX
 ------
 # (ROLLING) TODOs:
