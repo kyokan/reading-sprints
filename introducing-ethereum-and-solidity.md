@@ -1,8 +1,32 @@
 -----
+Ethereal Summit:
+https://www.youtube.com/playlist?list=PL4CxcnSy5_bjbJsPktNfX7BsCl90i8Err
+
+Supply Chain:
+https://www.youtube.com/watch?v=kMNeXUqzLrs&list=PL4CxcnSy5_bjbJsPktNfX7BsCl90i8Err&index=20
+
+
 
 1 - 
 ----
 # 1 - Bridging the Blockchain Knowledge Gap
+
+The term "Ethereum" can be used to refer to three distinct things:
+  - The Ethereum Protofol
+  - The Etherem Network created by computers using the protocol
+  - The Ethereum Project funding development of the aforementioned two
+
+VB - 
+  The key component is this idea of a Turing-complete blockchain. ...As
+
+-----
+
+# 2 - The Mist Browser
+mist, applications, encryption intro
+https://github.com/sdtsui/mist
+
+
+Encryption Intro:
 
 https://puu.sh/waag0/79e2db5de2.png
 
@@ -55,10 +79,6 @@ Digital Signature:
 
 Pretty important to mining.
 
------
-
-# 2 - The Mist Browser
-mist, applications
 
 
 -----
@@ -162,9 +182,7 @@ Prototyping Areas:
     "When comp packages can easily be composed of a series of if-then statements in a smart contract, the distinction between a salary and a bonus become blurred. The size, age, or location of a company may no longer carry cultural connotations about its trustworthiness or importance."
     - "THe boundaries of the modern company are becoming more permeable"
 
-A paradigm shift may be in store: first, a period of flux as individuals and business come to grips with their freedom to engage in business agreements --- 
-
-deals inked on pen and paper, but smaller deals handled by Eth machines running on boilerplate policies.
+A paradigm shift may be in store: first, a period of flux as individuals and business come to grips with their freedom to engage in business agreements -> deals inked on pen and paper, but smaller deals handled by Eth machines running on boilerplate policies.
 
 - No notaries.
 - No HR sign-off.
@@ -184,3 +202,4 @@ https://medium.com/@VitalikButerin/a-proof-of-stake-design-philosophy-506585978d
 - Address typo: Main PAge of ch8.
 
 -----
+
