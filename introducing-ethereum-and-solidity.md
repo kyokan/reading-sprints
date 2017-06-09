@@ -11,12 +11,76 @@ https://www.youtube.com/watch?v=kMNeXUqzLrs&list=PL4CxcnSy5_bjbJsPktNfX7BsCl90i8
 # 1 - Bridging the Blockchain Knowledge Gap
 
 The term "Ethereum" can be used to refer to three distinct things:
-  - The Ethereum Protofol
+  - The Ethereum Protocol
   - The Etherem Network created by computers using the protocol
   - The Ethereum Project funding development of the aforementioned two
 
 VB - 
-  The key component is this idea of a Turing-complete blockchain. ...As
+  The key component is this idea of a Turing-complete blockchain. ...As a data structure, it works the same way that Bitcoin works, except the difference in Ethereum is, it has this built-in programming language.
+
+Protocol: system of rules that describes how boxes communicate.
+
+
+What the blockchain is:
+  - p2p networking
+  - asymmetric cryptography
+  - cryptographic hashing
+
+Ethereum was built with the assumption that copycats are a foregone conclusion -- many blockchains --- common protocol by which they can communicate.
+
+
+The Ethereum network allows anyone to write a trustworthy, self-executing financial contract that will move ether in the future.
+
+Conceivably, this could allow financial contracts that project far into the future, giving stakeholders in the contract a reason to hold and use ether as a store of value.
+  - for decentralized smart contracts are in business today
+  - can crypto ever be real money, and will it be better than the money to which we are accustomed?
+
+
+
+Ether is fuel.
+  - it can pay to run programs on Ethereum's network
+  - these programs can move ether now, or in the future, when certain conditions are met
+  - because of its ability to pay for the execution of transactions in the future, ether can also be considered a commodity -- dimension of intrinsic value over bitcoins; it is not just a store of value (it is valuable, as a rental token for running programs on the ethereum network)
+
+One reason to bring up currencies and commidities in the discussion of smart contracts is to train yourself to think in terms of building economic systems in pure software. That's the promise of Ethereum.
+
+What makes systems like ETH and BTC secure is not that they are based on any hack-proof technology, but rather rely on powerful financial incentives and diseincentives to keep malefactors at bay.
+
+EVM - Changes to the EVM are achieved through hard forking
+  - How is this process of pursuation completed?
+
+The protocol:
+  - e.x.
+    - TCP/IP - transmission control
+    - HTTP: transfer
+    - SMTP: mail
+  - Ethereum Protocol Links:
+    https://github.com/ethereum/wiki/wiki/Ethereum-Wire-Protocol
+    https://github.com/ethereum/wiki/wiki/Block-Protocol-2.0
+    https://github.com/ethereum/go-ethereum/wiki/Ethereum-Specification
+  - Application layer is thin because the protocol gives you a lot.
+  - Minimal layers on top of what is already an incredibly effective payments network.
+    - Result: no startp explosion.
+
+Ethereum Design Doc:
+https://github.com/ethereum/wiki/wiki/Design-Rationale
+  - Principle 4: we have no features:
+    ```
+    We Have No Features: as a corollary to generalization, we often refuse to build in even very common high-level use cases as intrinsic parts of the protocol, with the understanding that if people really want to do it they can always create a sub-protocol (eg. ether-backed subcurrency, bitcoin/litecoin/dogecoin sidechain, etc) inside of a contract. An example of this is the lack of a Bitcoin-like "locktime" feature in Ethereum, as such a feature can be simulated via a protocol where users send "signed data packets" and those data packets can be fed into a specialized contract that processes them and performs some corresponding function if the data packet is in some contract-specific sense valid.
+    ```
+
+At Scale:
+  - traditional web apps are costly in large part because they must be engineered to store and exchange user data, and thus must have systems in place to isolate bad actors in order to elicit trust.
+  - e.x. private datacenters
+  - When the securty offered by a decentralized network is high enough, online businesses experience drastically lower overhead costs, which they can then pass on to customers to disrupt legacy players.
+  - Blockchain-based apps and services are disruptive not only because of their securite nature, but because of how economical they can be to operate at scale.
+
+Ethereum is suited to building economic systems in pure software. 
+  - It's software for business logic, wherin people (users) can move money (data representing value) around with the speed and scale that we normally get with data.
+  - Not the three-to-seven-day floating period you get with the commercial banking system.
+  - Or the fees w/ Visa, MasterCard, Paypal.
+
+With an Ethereum program, it's fairly trivial to pay hundreds of thousands of people in hundreds of countries, small amounts every few minutes, wheras in the legacy banking system you would need an entire payroll department working overtime to constantly rebalance your account ledgers and deal with cross-border issues.
 
 -----
 
@@ -84,6 +148,27 @@ Pretty important to mining.
 
 # 3 - The EVM
 how the EVM works
+
+3 - EVM
+
+
+EVM Opcodes in Ethereum development are roughly equivalent to HTTP verbs.
+  e.x.
+    STOP/ADD
+    LT/GT
+    ADDRESS/BALANCE/ORIGIN/CALLVAUE/CODESIZE/CODECOPY/GASPRICE
+    LOG0, LOG1/LOG4
+    SUICIDE (halt exec and register account for later deletion)
+
+HTTP verb semantics are reliable and well-known.
+In Ethereum and Bitcoin, things work differently. Because the network is also a global machine, the "methods" you use to make calls across the network are just machine-language codes, of the ilk used inside an indivudal computer.
+
+Running programs on the EVM:
+  - writing and depoying smart contracts, which work in concert to form distributed applications (DApps)
+  - each contract has its own address with storage, where it can hold any arbitrary code
+  - when a transaction hits this address (Eth transferred) or the contract is called by another contract, its code springs to life inside every node on the EVM, leading to further message passing or ether transactions
+  - the instructions that make up smart contracts are stored in EVM bytecode
+  - before they are compiled into bytecode, they are written by a human, in the Solidity programming language (next chapter)_
 
 -----
 
