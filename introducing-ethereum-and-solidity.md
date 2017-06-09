@@ -181,6 +181,17 @@ how to build things
   - Enables you to move tokens of value in any ethereum based system
   - Private groups altered, re-released, and deployed the source code (Ch11)
 
+
+Smart contracts are distinct from distributed applications or dapps, even though both are distributed and application-like. A dapp is a GUI application that uses Ethereum smart contracts on the back end, in lieu of a conventional database and web application hosting provider. Dapps may be accessed through the Mist browser, or over the web.
+
+TESTING:
+The Ethereum network comes with a testnet called Ropsten: sandbox-like environment. Separate chain, just like in Chapter 8.
+
+
+  We've only touched briefly on the formal mathematics that make these programs so exciting for enterprise IT. But with any luck, you've seen enough to motivate you to dig deeper into the Ethereum White Paper and Yellow Paper and see for yourself how the EVM reaches provable consensus.
+
+CH5: deploy first token contract on EVM.
+Social and cultural history of monetary instruments, and what it means for your understanding of the potential of Ethereum.
 -----
 
 # 5 - Smart Contracts and Tokens
