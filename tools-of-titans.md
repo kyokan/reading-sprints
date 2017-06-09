@@ -19,8 +19,6 @@ Tim's Plannning:
 
 - Two-Year, 120k Fund.
 - Assume it's lost.
-
-
 Do not mimick this approaching unless:
   - You have a clear informational advantage (insider access) that gives you a competitive edge.
   - 100% comfortable losing your funds.
@@ -28,10 +26,8 @@ Do not mimick this approaching unless:
   - You limit angel investment funds to 10 to 15% or less of your liquid assets.
     - 90%+ in conservative investments (cash-like equivalents), 10% in speculative investments
 
-
 Notes:
 - People overestimate risk tolerance. "I won't panick unless down 20% in a quarter -> in practice, ~5% in a quarter".
-
 
 *** Baseline Rules ***
 - Formulate intelligent rules. Follow them.
@@ -53,11 +49,5 @@ Notes:
 - If a startup exists at 3 times its current valuation, it should allow you to walk away with 300k.
 - Move from Investor -> Investor/Advisor -> Advisory
   - Establish your reputation as a major value-add: rock-solid frontend skills.
-
------------
-
-- Set aside a fund, in Fiat. Lock it down, record it, and constantly rebalance at no greater than 40% of NW.
-- Create a "safe" class of top tier cryptos. Buy and hold, use it as the basis for rebalancing.
-- Create a "speculative" class of smaller cryptos: short/medium term.  Become active here: adding frontend value, approach the core team for coins.  Pre-crowdsale.
 
 -----------

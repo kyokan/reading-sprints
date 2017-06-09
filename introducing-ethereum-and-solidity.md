@@ -248,8 +248,6 @@ Prototyping Areas:
 
 - Generalist learning, what you make with different chains...
 
-
-
 ------
 
 # 11 - Advanced Concepts***
