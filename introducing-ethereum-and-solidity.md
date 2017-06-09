@@ -1,6 +1,6 @@
-Introducing_Ethereum_and_Solidity_Notes.md
+-----
 
-### Note: Continuation of notes in this file have been moved to sdtsui/reading-sprints
+1 - 
 ----
 # 1
 
@@ -54,17 +54,19 @@ Digital Signature:
   [HashedPlaintext + Plaintext]
 
 Pretty important to mining.
---------
+
+-----
 
 # 2 - The Mist Browser
 mist, applications
 
-------
+
+-----
 
 # 3 - The EVM
 how the EVM works
 
-------
+-----
 
 # 4 - Solidity Programming
 how to build things
@@ -75,25 +77,25 @@ how to build things
   - Enables you to move tokens of value in any ethereum based system
   - Private groups altered, re-released, and deployed the source code (Ch11)
 
-------
+-----
 
 # 5 - Smart Contracts and Tokens
 - Smart contracts are reusable classes...bid system, section bid system, polling system...
   - Secure IM system...
   ???
 
-------
+-----
 
 # 6 - Mining Ether
   - understand how mining works, so you can point your rigs at new cryptocurrencies in the future
 
-------
+-----
 
 # 7 - Cryptoeconomics Survey
 - hashing vs encryption
 - we need to defend our public networks from attackers...
 
-------
+-----
 
 # 8 - Dapp Deployment
   - running blockchain based applications >>> managing clients in a cloud-hosted paradigm
@@ -111,9 +113,10 @@ Prototyping Areas:
   - act as controllers for other systems or sets of contracts
   -serve as application-speciifc logic for a communal web service
   -serve as a utility that developers can use on a single-serving basis, such as a random number generator
-------
 
-# 2 - Creating Private Chains
+-----
+
+# 9 - Creating Private Chains
   - they have merit as learning tools
   - may have uses for large corps, identity, etc
 
@@ -124,9 +127,9 @@ Prototyping Areas:
 
   - creating your blockchain genesis file...
 
-------
+-----
 
-# 9 - Use Cases*****
+# 10 - Use Cases*****
 
 - Generalist learning, what you make with different chains...
 
@@ -171,7 +174,7 @@ deals inked on pen and paper, but smaller deals handled by Eth machines running 
 
 How many business agreements might be made more fair and enforaceable?
 
-------
+-----
 
 # 11 - Backmatter*?
 ------XXX
@@ -183,3 +186,5 @@ How many business agreements might be made more fair and enforaceable?
 VB - Proof of stake design philosophy:
 https://medium.com/@VitalikButerin/a-proof-of-stake-design-philosophy-506585978d51#.7n3x85gvs
 - Address typo: Main PAge of ch8.
+
+-----
