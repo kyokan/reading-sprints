@@ -6,7 +6,6 @@ Supply Chain:
 https://www.youtube.com/watch?v=kMNeXUqzLrs&list=PL4CxcnSy5_bjbJsPktNfX7BsCl90i8Err&index=20
 
 
-
 1 - 
 ----
 # 1 - Bridging the Blockchain Knowledge Gap
