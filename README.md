@@ -1,7 +1,10 @@
 #### `reading-sprints`
+Hi there!
 
-Notes from Dan's personal reading. Started Q2 2017.
+Lately I've been reading about technical communication, design, engineering management, consulting, blockchain (cryptography, distributed systems, economics), code quality, functional programming, and the history of the internet.
 
-Lately I'e been reading about technical communication, management, blockchain (cryptography, distributed systems), code quality, functional programming, and the history of the internet.
 
-Reach out on Twitter (`sdtsui`) if you'd like to chat about any of this!
+Most of my personal notes have been moved to private repos, or an EverNote stack.
+
+Feel free reach out on Twitter (`sdtsui`) if you'd like to chat about any of this!
+
